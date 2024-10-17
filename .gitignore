@@ -1,0 +1,4 @@
+/vendor/
+/public/images/usuarios/*
+/public/files/usuarios/*
+/config/database.php

@@ -1,0 +1,17 @@
+{
+    "name": "anavi/koapa-app",
+    "description": "Admin sistem for party rental equipment",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anavi\\KoapaApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anavila",
+            "email": "anavila.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
